@@ -5,9 +5,10 @@ This project aimed to develop a movie recommendation system that suggests films 
 Key Features:
 
 1. User Input Processing:
-  * Users input the title of a movie they like.
+  
+   * Users input the title of a movie they like.
 
-  * The system parses this input to extract relevant information, including keywords, genre, cast, and director.
+   * The system parses this input to extract relevant information, including keywords, genre, cast, and director.
 
 2. Data Extraction and Analysis:
 
