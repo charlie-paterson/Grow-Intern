@@ -12,21 +12,21 @@ Key Features:
 
 2. Data Extraction and Analysis:
 
-* Utilized NLTK to analyze movie data and preprocess text for effective matching.
+   * Utilized NLTK to analyze movie data and preprocess text for effective matching.
 
-* Extracted features such as movie titles, genres, keywords, cast members, and directors from a dataset of movies.
+   * Extracted features such as movie titles, genres, keywords, cast members, and directors from a dataset of movies.
 
 3. Recommendation Algorithm:
 
-* Implemented a recommendation algorithm that compares the user-provided movie with others in the dataset.
+   * Implemented a recommendation algorithm that compares the user-provided movie with others in the dataset.
 
-* Calculated similarity scores based on the extracted features: title similarity, keyword overlap, genre match, cast similarity, and director match.
+   * Calculated similarity scores based on the extracted features: title similarity, keyword overlap, genre match, cast similarity, and director match.
 
 4. Results Presentation:
 
-* Generated a list of the top ten recommended movies.
+   * Generated a list of the top ten recommended movies.
 
-* Each recommendation included a percentage match, indicating how closely it aligns with the user’s input movie based on the calculated similarity scores.
+   * Each recommendation included a percentage match, indicating how closely it aligns with the user’s input movie based on the calculated similarity scores.
 
 Outcome:
 
